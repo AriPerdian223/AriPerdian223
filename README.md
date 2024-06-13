@@ -1,4 +1,4 @@
 Nama  : Ari Perdian
 NIM   : 20220040072
-Kelas : J
+Kelas : TI22J
 Prodi : Teknik Informatika
